@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of MANATURY - Your AI-Powered Passport to the World",
+  "description": "A revolutionary travel platform for 2025 fusing global community, advanced AI concierge, and professional wholesale tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
